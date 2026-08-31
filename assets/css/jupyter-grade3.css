@@ -371,7 +371,6 @@ li,
 h1,
 h2,
 h3,
-h6,
 pre,
 code,
 form,
@@ -484,22 +483,6 @@ pre {
   color: #126dce;
   text-decoration: underline;
   cursor: auto;
-}
-
-#toc a,
-.toc {
-  color: #303030 !important;
-  font-size: 11pt !important;
-}
-
-#toc li > span:hover {
-  background-color: #d4d4d4 !important;
-}
-
-#toc a:hover,
-.toc {
-  color: #1c1c1c !important;
-  font-size: 11pt !important;
 }
 
 
