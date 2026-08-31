@@ -1,10 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate in Astrophysics · Nanjing University
 
-profile: false
+profile: pro_pic.jpg
 
 selected_papers: true
 social: true

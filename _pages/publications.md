@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Refereed publications on X-ray binaries, compact objects, and nearby galaxies.
 nav: true
 nav_order: 3

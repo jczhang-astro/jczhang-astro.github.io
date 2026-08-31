@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /projects/
 description: X-ray timing, compact objects, stellar populations, and nearby galaxies.
 nav: true
