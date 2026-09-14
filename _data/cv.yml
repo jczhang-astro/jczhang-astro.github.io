@@ -10,9 +10,9 @@ cv:
   summary: >-
     High-energy astrophysicist conducting systematic X-ray timing studies of
     compact-object populations in nearby galaxies. This work has led to discoveries
-    including M31 UCXB-1 and motivates follow-up studies of unusual sources such as
-    M81F4, alongside research on star clusters, ionized gas, and resolved stellar
-    populations.
+    including M31 UCXB-1 and M81F4, a persistently luminous source with recurrent
+    minute-scale, super-Eddington flares, alongside research on star clusters,
+    ionized gas, and resolved stellar populations.
 
   sections:
     Education:
@@ -56,8 +56,8 @@ cv:
           Williams.
 
     Publications:
-      - title: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares
-        publisher: Manuscript in preparation
+      - title: "The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares"
+        publisher: Submitted to The Astrophysical Journal Letters
         releaseDate: 2026
         summary: >-
           Jiachang Zhang, Zhiyuan Li, Ziqian Hua, and collaborators.
