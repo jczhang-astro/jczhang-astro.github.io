@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Submitted manuscripts
 
-**The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares.** Jiachang Zhang, Zhiyuan Li, Ziqian Hua, and collaborators. Submitted to *The Astrophysical Journal Letters*.
+**The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares.** Jiachang Zhang, Zhiyuan Li, Ziqian Hua, and collaborators. Submitted.
 
 The manuscript above is listed separately from the refereed record. No DOI or arXiv identifier is currently available.
 
