@@ -41,17 +41,15 @@ cv:
       - name: Research areas
         icon: fa-solid fa-star
         keywords:
-          - Time-domain high-energy astrophysics
-          - X-ray binaries and accreting compact objects
-          - X-ray timing and variability
-          - Compact-object populations in nearby galaxies
-          - Star clusters and their X-ray populations
+          - Time-domain studies of X-ray binaries and accreting compact objects
+          - Compact-object populations and their stellar environments in nearby galaxies
+          - X-ray source populations in star clusters
           - Diffuse ionized gas and stellar feedback
 
     Academic Visit:
       - bullet: >-
           **Visiting Graduate Researcher**, University of Washington, Seattle, WA,
-          USA — September–December 2024. Studied ionized gas and associated stellar
+          USA — September–December 2024. Studied ionized gas and related stellar
           populations in M31 and M33 under the supervision of Dr. Benjamin F.
           Williams.
 
@@ -59,40 +57,37 @@ cv:
       - title: "The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares"
         publisher: Submitted
         releaseDate: 2026
-        summary: >-
-          Jiachang Zhang, Zhiyuan Li, Ziqian Hua, and collaborators.
+        summary: "**Jiachang Zhang**, et al."
 
       - title: Probing periodic and aperiodic variability of X-ray sources in M31, M81, and Centaurus A with Chandra
-        publisher: Monthly Notices of the Royal Astronomical Society, 546, staf2237
+        publisher: MNRAS, 546, staf2237
         releaseDate: 2026
         url: https://doi.org/10.1093/mnras/staf2237
         summary: >-
-          Jiachang Zhang, Zhiyuan Li, Ziqian Hua, and Tong Bao. Published online 18
-          December 2025; volume year 2026.
+          **Jiachang Zhang**, Zhiyuan Li, Ziqian Hua, and Tong Bao.
 
       - title: "The first extragalactic ultra-compact X-ray binary: A candidate black hole-white dwarf system"
         publisher: The Innovation, 7, 101181
         releaseDate: 2026
         url: https://doi.org/10.1016/j.xinn.2025.101181
         summary: >-
-          Qian-Qi Ma, Jiachang Zhang, Wei-Min Gu, Zhiyuan Li, Shan-Shan Weng, and
-          Tong Bao. **Co-first author; Qian-Qi Ma and Jiachang Zhang contributed
-          equally.**
+          Qian-Qi Ma†, **Jiachang Zhang†**, Wei-Min Gu, Zhiyuan Li, Shan-Shan Weng,
+          and Tong Bao. **Equal contribution.**
+
+      - title: A Chandra search for periodic X-ray sources in the bulge of M31
+        publisher: MNRAS, 530, 2096–2113
+        releaseDate: 2024
+        url: https://doi.org/10.1093/mnras/stae1002
+        summary: "**Jiachang Zhang**, Tong Bao, and Zhiyuan Li."
 
       - title: Ring or No Ring—Revisiting the Multiphase Nuclear Environment in M31
-        publisher: The Astrophysical Journal, 983, 182
+        publisher: ApJ, 983, 182
         releaseDate: 2025
         url: https://doi.org/10.3847/1538-4357/adc103
         summary: >-
           Zongnan Li, Zhao Su, Sumin Wang, Yufan F. Zhou, Zhiyuan Li, Xuanyi Lyu,
-          Fanyi Meng, Kai Zhang, Di Li, Chaowei Tsai, Jingwen Wu, and Jiachang
-          Zhang.
-
-      - title: A Chandra search for periodic X-ray sources in the bulge of M31
-        publisher: Monthly Notices of the Royal Astronomical Society, 530, 2096–2113
-        releaseDate: 2024
-        url: https://doi.org/10.1093/mnras/stae1002
-        summary: Jiachang Zhang, Tong Bao, and Zhiyuan Li.
+          Fanyi Meng, Kai Zhang, Di Li, Chaowei Tsai, Jingwen Wu, and **Jiachang
+          Zhang**.
 
     Selected Presentations:
       - bullet: >-
@@ -128,22 +123,26 @@ cv:
           Poster, First Shen Kuo Symposium of the Chinese Astronomical Society,
           Wuhan, China, January 2024. Outstanding Poster Award.
 
-    Proposals:
+    Proposal Experience:
       - bullet: >-
-          **Co-Investigator**, “Joint MCI–IFS Observations of M31,” CSST Early
-          Science Program.
+          **2024 — Co-Investigator**, “How Do Stellar Feedback WEAVE into the ISM:
+          the Unique Case of M31,” WHT/WEAVE Open-Time Program, **4.0 hr awarded**
+          (PI: Matthew Smith).
+      - bullet: >-
+          **Co-Investigator**, “Joint MCI–IFS Observations of M31,” China Space
+          Station Telescope (CSST) Early Science Program.
       - bullet: >-
           **Co-Investigator**, “Joint IFS–MCI Observations of the Virgo Cluster,”
-          CSST Early Science Program.
+          China Space Station Telescope (CSST) Early Science Program.
       - bullet: >-
-          **Co-Investigator**, “Joint MCI–IFS Observations of M33,” CSST Early
-          Science Program.
+          **Co-Investigator**, “Joint MCI–IFS Observations of M33,” China Space
+          Station Telescope (CSST) Early Science Program.
 
     Honors and Awards:
       - title: Tiangong International Exchange Scholarship
         date: 2024
         awarder: Nanjing University
-        summary: Approximate value CNY 80,000.
+        summary: Approximate value CNY 80,000 (≈ EUR 10,000).
       - title: Outstanding Poster Award
         date: 2024
         awarder: First Shen Kuo Symposium of the Chinese Astronomical Society
@@ -174,18 +173,17 @@ cv:
 
     Research Mentoring:
       - bullet: >-
-          **2025–2026 — Undergraduate Research Mentor**, Undergraduate Innovation
-          and Entrepreneurship Training Program, Nanjing University. *“An X-ray
-          Study of Massive Stars in the Solar Neighborhood”* — Mentored a project
-          using archival Chandra and Gaia data to identify and characterize
-          long-duration stellar X-ray flares and investigate their statistical
-          properties.
+          **2025–2026 — Yuyan Wang**, Undergraduate Innovation and Entrepreneurship
+          Training Program. *“An X-ray Study of Massive Stars in the Solar
+          Neighborhood”* — Mentored a project using archival Chandra and Gaia data
+          to identify and characterize long-duration stellar X-ray flares and
+          investigate their statistical properties.
       - bullet: >-
-          **2026–present — Undergraduate Research Mentor**, Nanjing University.
-          *“Spectral Evolution and State Variability of X-ray Binaries in M31”* —
-          Supervising a project using archival X-ray observations to investigate
-          spectral evolution, luminosity-dependent behavior, and possible
-          accretion-state transitions in M31 X-ray binaries.
+          **2026–present — Yuchi Zhang**, Undergraduate Research. *“Spectral
+          Evolution and State Variability of X-ray Binaries in M31”* — Supervising
+          a project using archival X-ray observations to investigate spectral
+          evolution, luminosity-dependent behavior, and possible accretion-state
+          transitions in M31 X-ray binaries.
 
     Skills:
       - name: X-ray data analysis

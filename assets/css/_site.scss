@@ -214,6 +214,77 @@ main.container {
   text-transform: uppercase;
 }
 
+.research-figure {
+  margin: 2rem 0 2.6rem;
+}
+
+.research-figure a {
+  display: block;
+}
+
+.research-figure img {
+  background: #ffffff;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.35rem;
+  display: block;
+  height: auto;
+  padding: 0.35rem;
+  width: 100%;
+}
+
+.research-figure figcaption,
+.research-figure-caption {
+  color: var(--global-text-color-light);
+  font-family: "DM Sans", Arial, sans-serif;
+  font-size: 0.76rem;
+  line-height: 1.55;
+  margin: 0.8rem 0 0;
+}
+
+.research-figure figcaption strong,
+.research-figure-caption strong {
+  color: var(--global-text-color);
+  font-weight: 600;
+}
+
+.research-figure--compact {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 39rem;
+}
+
+.research-figure--graphical {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 31rem;
+}
+
+.research-figure-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 2rem 0 0;
+}
+
+.research-figure-grid .research-figure {
+  margin: 0;
+}
+
+.research-figure-caption {
+  margin-bottom: 2.6rem;
+}
+
+@media (max-width: 767px) {
+  .research-figure-grid {
+    gap: 0.8rem;
+    grid-template-columns: 1fr;
+  }
+
+  .research-figure {
+    margin-bottom: 2.1rem;
+  }
+}
+
 .card {
   background: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
