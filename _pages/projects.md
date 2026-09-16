@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+<div class="research-layout" markdown="1">
+
 ## RESEARCH OVERVIEW
 
 I study accreting compact objects and X-ray-source populations in nearby galaxies. My goal is to build a **time-domain population framework** that combines short- and long-timescale variability, spectral behavior, local stellar environments, and rare accretion phenomena. Nearby galaxies provide known-distance laboratories in which individual systems can be studied within well-characterized stellar populations and galactic environments.
@@ -21,18 +23,14 @@ I work primarily with archival observations from **Chandra**, **XMM-Newton**, **
 
 ## RESEARCH THEMES
 
+<section class="research-theme" markdown="1">
+<div class="research-theme__text" markdown="1">
+
 ### 1. Time-domain populations of extragalactic X-ray binaries
 
 Decades of Galactic X-ray astronomy have established a detailed view of Milky Way X-ray binaries and compact-object accretion. For nearby galaxies, early Chandra and XMM-Newton surveys established population-level X-ray luminosity functions, but luminosity alone cannot describe the full diversity of accretion states or their evolution. Timing information provides the missing dimension.
 
 I conducted a systematic Chandra search for periodic and aperiodic variability among X-ray sources in **M31, M81, and Centaurus A**, using approximately two decades of archival observations. The resulting sample includes coherent periods, short-term flares and dips, aperiodic variability, and long-term luminosity changes {% cite zhang2026variability %}. I am extending this foundation toward comparative population analyses that connect variability and accretion state with stellar age, metallicity, star-formation history, and dynamical environment.
-
-<figure class="research-figure research-figure--compact">
-  <a href="{{ '/assets/research/zhang2026-fig1.webp' | relative_url }}">
-    <img src="{{ '/assets/research/zhang2026-fig1.webp' | relative_url }}" alt="Stacked Chandra HRC image of the M31 bulge with seven periodic X-ray sources marked" loading="lazy" decoding="async">
-  </a>
-  <figcaption><strong>The M31 foundation of the survey.</strong> A stacked Chandra HRC image of the central 15 × 15 arcmin<sup>2</sup> of M31, with the seven periodic sources identified by the systematic search marked in yellow.</figcaption>
-</figure>
 
 The analysis combines:
 
@@ -40,6 +38,16 @@ The analysis combines:
 - period searches in photon-counting time series;
 - Bayesian Blocks searches for flares, dips, and state changes;
 - long-term luminosity, spectral, and rms-flux measurements.
+
+</div>
+<div class="research-theme__media">
+
+<figure class="research-figure">
+  <a href="{{ '/assets/research/zhang2026-fig1.webp' | relative_url }}">
+    <img src="{{ '/assets/research/zhang2026-fig1.webp' | relative_url }}" alt="Stacked Chandra HRC image of the M31 bulge with seven periodic X-ray sources marked" loading="lazy" decoding="async">
+  </a>
+  <figcaption><strong>The M31 foundation of the survey.</strong> A stacked Chandra HRC image of the central 15 × 15 arcmin<sup>2</sup> of M31, with the seven periodic sources identified by the systematic search marked in yellow.</figcaption>
+</figure>
 
 <div class="research-figure-grid">
   <figure class="research-figure">
@@ -69,9 +77,22 @@ The analysis combines:
   <figcaption><strong>Population-level long-term variability.</strong> Variability amplitude versus mean X-ray luminosity for bulge sources in M31, M81, and Centaurus A. The galaxy-dependent linear scalings are consistent with an rms–flux relation and reveal differences in population variability.</figcaption>
 </figure>
 
+</div>
+</section>
+
+<section class="research-theme" markdown="1">
+<div class="research-theme__text" markdown="1">
+
 ### 2. Periodic sources and ultra-compact binaries in M31
 
 Using approximately 2 Ms of Chandra observations spanning 16 years, we performed a systematic search for periodic X-ray sources in the bulge of M31. We identified seven periodic systems, including four new discoveries, whose eclipses and dips constrain their orbital periods, accretion geometries, and binary configurations {% cite zhang2024periodic %}.
+
+This work also led to the discovery and follow-up study of **M31 UCXB-1**. Its approximately 465-second modulation identifies it as an ultra-compact X-ray binary. Our subsequent study established it as the **first extragalactic ultra-compact X-ray binary** and a candidate **black hole-white dwarf system** {% cite ma2026ucxb %}. I am the first author of the systematic M31 timing study and a co-first author of the M31 UCXB-1 discovery paper.
+
+M31 UCXB-1 demonstrates how systematic timing surveys can reveal rare compact binaries that are difficult to recognize from luminosity or time-integrated spectra alone.
+
+</div>
+<div class="research-theme__media">
 
 <figure class="research-figure">
   <a href="{{ '/assets/research/zhang2024-fig6.webp' | relative_url }}">
@@ -79,8 +100,6 @@ Using approximately 2 Ms of Chandra observations spanning 16 years, we performed
   </a>
   <figcaption><strong>The periodic-source population in context.</strong> X-ray luminosity versus orbital period for the seven M31 bulge LMXBs (red circles), with crosses marking the four systems discovered in our Chandra search. Galactic ultra-compact, black-hole, and neutron-star LMXBs are shown for comparison; the dashed line marks the conventional 80-minute upper limit for ultra-compact systems.</figcaption>
 </figure>
-
-This work also led to the discovery and follow-up study of **M31 UCXB-1**. Its approximately 465-second modulation identifies it as an ultra-compact X-ray binary. Our subsequent study established it as the **first extragalactic ultra-compact X-ray binary** and a candidate **black hole-white dwarf system** {% cite ma2026ucxb %}. I am the first author of the systematic M31 timing study and a co-first author of the M31 UCXB-1 discovery paper.
 
 <figure class="research-figure">
   <a href="{{ '/assets/research/ma2026-fig1.webp' | relative_url }}">
@@ -96,14 +115,15 @@ This work also led to the discovery and follow-up study of **M31 UCXB-1**. Its a
   <figcaption><strong>Testing the nature of the accretor.</strong> M31 UCXB-1 (red) on the 2–10 keV luminosity–orbital-period plane, compared with known ultra-compact binaries and theoretical neutron-star–white-dwarf and black-hole–white-dwarf bands. Its location is compatible with both classes, while the full timing and spectral evidence favors a black-hole accretor.</figcaption>
 </figure>
 
-M31 UCXB-1 demonstrates how systematic timing surveys can reveal rare compact binaries that are difficult to recognize from luminosity or time-integrated spectra alone.
-
 <figure class="research-figure research-figure--graphical">
   <a href="{{ '/assets/research/ma2026-graphical-abstract.webp' | relative_url }}">
     <img src="{{ '/assets/research/ma2026-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract showing a white dwarf transferring matter to a compact object in M31 UCXB-1" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>M31 UCXB-1 at a glance.</strong> A white dwarf fills its Roche lobe and transfers matter through an accretion disk onto a compact object, forming an exceptionally short-period extragalactic binary.</figcaption>
 </figure>
+
+</div>
+</section>
 
 ### 3. M81F4 and extreme accretion
 
@@ -124,3 +144,5 @@ I am a co-investigator on the 2024 awarded **WHT/WEAVE** open-time program “Ho
 I also contribute to three **China Space Station Telescope (CSST)** early-science proposals involving joint MCI-IFS observations of M31 and M33 and joint IFS-MCI observations of the Virgo Cluster. These programs will connect resolved stellar populations and emission-line structures with the environments that shape compact-source populations.
 
 For related results, see my [publications]({% link _pages/publications.md %}) and [academic CV]({% link _pages/cv.md %}).
+
+</div>
