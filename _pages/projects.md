@@ -30,7 +30,7 @@ I work primarily with archival observations from **Chandra**, **XMM-Newton**, **
 
 Decades of Galactic X-ray astronomy have established a detailed view of Milky Way X-ray binaries and compact-object accretion. For nearby galaxies, early Chandra and XMM-Newton surveys established population-level X-ray luminosity functions, but luminosity alone cannot describe the full diversity of accretion states or their evolution. Timing information provides the missing dimension.
 
-I conducted a systematic Chandra search for periodic and aperiodic variability among X-ray sources in **M31, M81, and Centaurus A**, using approximately two decades of archival observations. The resulting sample includes coherent periods, short-term flares and dips, aperiodic variability, and long-term luminosity changes {% cite zhang2026variability %}. I am extending this foundation toward comparative population analyses that connect variability and accretion state with stellar age, metallicity, star-formation history, and dynamical environment.
+I conducted a systematic Chandra search for periodic and aperiodic variability among X-ray sources in **M31, M81, and Centaurus A**, using approximately two decades of archival observations. The resulting sample includes coherent periods, short-term flares and dips, aperiodic variability, and long-term luminosity changes ([Zhang et al. 2026, MNRAS](https://doi.org/10.1093/mnras/staf2237)). I am extending this foundation toward comparative population analyses that connect variability and accretion state with stellar age, metallicity, star-formation history, and dynamical environment.
 
 The analysis combines:
 
@@ -85,9 +85,9 @@ The analysis combines:
 
 ### 2. Periodic sources and ultra-compact binaries in M31
 
-Using approximately 2 Ms of Chandra observations spanning 16 years, we performed a systematic search for periodic X-ray sources in the bulge of M31. We identified seven periodic systems, including four new discoveries, whose eclipses and dips constrain their orbital periods, accretion geometries, and binary configurations {% cite zhang2024periodic %}.
+Using approximately 2 Ms of Chandra observations spanning 16 years, we performed a systematic search for periodic X-ray sources in the bulge of M31. We identified seven periodic systems, including four new discoveries, whose eclipses and dips constrain their orbital periods, accretion geometries, and binary configurations ([Zhang, Bao & Li 2024, MNRAS](https://doi.org/10.1093/mnras/stae1002)).
 
-This work also led to the discovery and follow-up study of **M31 UCXB-1**. Its approximately 465-second modulation identifies it as an ultra-compact X-ray binary. Our subsequent study established it as the **first extragalactic ultra-compact X-ray binary** and a candidate **black hole-white dwarf system** {% cite ma2026ucxb %}. I am the first author of the systematic M31 timing study and a co-first author of the M31 UCXB-1 discovery paper.
+This work also led to the discovery and follow-up study of **M31 UCXB-1**. Its approximately 465-second modulation identifies it as an ultra-compact X-ray binary. Our subsequent study established it as the **first extragalactic ultra-compact X-ray binary** and a candidate **black hole-white dwarf system** ([Ma et al. 2026, The Innovation](https://doi.org/10.1016/j.xinn.2025.101181)). I am the first author of the systematic M31 timing study and a co-first author of the M31 UCXB-1 discovery paper.
 
 M31 UCXB-1 demonstrates how systematic timing surveys can reveal rare compact binaries that are difficult to recognize from luminosity or time-integrated spectra alone.
 
@@ -137,7 +137,7 @@ M81F4 provides a rare observational benchmark for models of unstable accretion o
 
 Understanding X-ray-binary populations requires connecting compact sources with the environments in which they form and evolve. I study X-ray emission from star clusters in **M31 and M33**, and use high-resolution optical imaging to investigate ionized gas, emission-line sources, and associated resolved stellar populations.
 
-During an academic visit to the **University of Washington**, I worked with **Dr. Benjamin F. Williams** on ionized gas and related stellar populations in M31 and M33. I also contributed to a multiwavelength study of the nuclear environment in M31 that combined observations with hydrodynamical simulations to revisit its ring-like gas structure {% cite li2025ring %}.
+During an academic visit to the **University of Washington**, I worked with **Dr. Benjamin F. Williams** on ionized gas and related stellar populations in M31 and M33. I also contributed to a multiwavelength study of the nuclear environment in M31 that combined observations with hydrodynamical simulations to revisit its ring-like gas structure ([Li et al. 2025, ApJ](https://doi.org/10.3847/1538-4357/adc103)).
 
 I am a co-investigator on the 2024 awarded **WHT/WEAVE** open-time program “How Do Stellar Feedback WEAVE into the ISM: the Unique Case of M31” (PI: Matthew Smith; 4.0 hr awarded). The program will map young star clusters and their surrounding H II regions in M31, using spatially resolved spectroscopy to examine ionized-gas kinematics and the transfer of energy and momentum from stellar feedback to the interstellar medium.
 
