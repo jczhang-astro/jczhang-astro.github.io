@@ -72,8 +72,6 @@ The analysis combines:
 <figcaption><strong>Short-timescale flare populations.</strong> Distributions of flare duration and peak 0.5–8 keV luminosity in M31, M81, and Centaurus A. Bayesian Blocks provide a uniform definition of each flare interval across the three galaxies.</figcaption>
 </figure>
 
-
-
 <figure class="research-figure research-figure--compact">
   <a href="{{ '/assets/research/zhang2026-fig6.webp' | relative_url }}">
     <img src="{{ '/assets/research/zhang2026-fig6.webp' | relative_url }}" width="1080" height="1170" alt="Long-term X-ray variability amplitude versus mean luminosity in M31, M81, and Centaurus A" loading="lazy" decoding="async">
