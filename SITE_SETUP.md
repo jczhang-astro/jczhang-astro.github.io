@@ -62,8 +62,8 @@ https://<你的用户名>.github.io
 ## 已经完成的内容
 
 - 英文首页与研究简介
-- Research 页面与 M81F4 当前项目
-- 4 篇论文的 BibTeX、DOI、arXiv、出版社和 NASA ADS 链接
+- Research 页面与 M81F4 研究成果（ApJ 已接收）
+- 6 篇已发表或已接收论文的 BibTeX 与论文链接（含 M81F4 / ApJ、M33 NOEMA / AJ）
 - Publications、CV、Talks 页面
 - 论文新闻时间线
 - ORCID 与公开联系邮箱
