@@ -59,13 +59,13 @@ The analysis combines:
 <figure class="research-figure-pair">
 <div class="research-figure-grid">
   <figure class="research-figure">
-    <a href="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}">
-      <img src="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}" width="1440" height="1080" alt="Histogram of X-ray flare durations in M31, M81, and Centaurus A" loading="lazy" decoding="async">
+    <a href="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}">
+      <img src="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}" width="1440" height="1080" alt="Histogram of X-ray flare durations in M31, M81, and Centaurus A" loading="lazy" decoding="async">
     </a>
   </figure>
   <figure class="research-figure">
-    <a href="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}">
-      <img src="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}" width="1440" height="1080" alt="Histogram of X-ray flare peak luminosities in M31, M81, and Centaurus A" loading="lazy" decoding="async">
+    <a href="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}">
+      <img src="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}" width="1440" height="1080" alt="Histogram of X-ray flare peak luminosities in M31, M81, and Centaurus A" loading="lazy" decoding="async">
     </a>
   </figure>
 </div>
