@@ -131,13 +131,15 @@ M31 UCXB-1 demonstrates how systematic timing surveys can reveal rare compact bi
 
 The persistent and flare emission exhibit similarly hard X-ray spectra. The flares show neither spectral cooling nor an additional thermal component characteristic of classical thermonuclear X-ray bursts, strongly favoring an accretion-driven origin. Our preferred interpretation is a close binary containing a magnetized neutron star, fed through Roche-lobe overflow by an intermediate-mass donor, with the flares arising from instabilities at the disk-magnetosphere boundary.
 
-M81F4 provides a rare observational benchmark for models of unstable accretion onto magnetized neutron stars at extreme mass-accretion rates. The manuscript, **“The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares,” is submitted.**
+M81F4 provides a rare observational benchmark for models of unstable accretion onto magnetized neutron stars at extreme mass-accretion rates. Our paper, **“The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares,” has been accepted for publication in The Astrophysical Journal (ApJ)** ([arXiv:2610.23339](https://arxiv.org/abs/2610.23339)).
 
 ### 4. Stellar environments, ionized gas, and feedback
 
 Understanding X-ray-binary populations requires connecting compact sources with the environments in which they form and evolve. I study X-ray emission from star clusters in **M31 and M33**, and use high-resolution optical imaging to investigate ionized gas, emission-line sources, and associated resolved stellar populations.
 
-During an academic visit to the **University of Washington**, I worked with **Dr. Benjamin F. Williams** on ionized gas and related stellar populations in M31 and M33. I also contributed to a multiwavelength study of the nuclear environment in M31 that combined observations with hydrodynamical simulations to revisit its ring-like gas structure ([Li et al. 2025, ApJ](https://doi.org/10.3847/1538-4357/adc103)).
+During an academic visit to the **University of Washington**, I worked with **Prof. Benjamin F. Williams** on ionized gas and related stellar populations in M31 and M33. I also contributed to a multiwavelength study of the nuclear environment in M31 that combined observations with hydrodynamical simulations to revisit its ring-like gas structure ([Li et al. 2025, ApJ](https://doi.org/10.3847/1538-4357/adc103)).
+
+Our NOEMA study of the center of **M33**, **accepted for publication in The Astronomical Journal (AJ)**, resolves a molecular filament and an ordered spatial sequence of molecular gas, ionized gas, and young stars ([Li et al. 2026](https://arxiv.org/abs/2610.35278)). These observations are consistent with gas compression followed by massive star formation.
 
 I am a co-investigator on the 2024 awarded **WHT/WEAVE** open-time program “How Do Stellar Feedback WEAVE into the ISM: the Unique Case of M31” (PI: Matthew Smith; 4.0 hr awarded). The program will map young star clusters and their surrounding H II regions in M31, using spatially resolved spectroscopy to examine ionized-gas kinematics and the transfer of energy and momentum from stellar feedback to the interstellar medium.
 

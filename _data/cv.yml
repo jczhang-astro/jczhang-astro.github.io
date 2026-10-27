@@ -1,7 +1,7 @@
 cv:
   name: Jiachang Zhang
   label: PhD Candidate in Astrophysics
-  email: zhangjiachang@smail.nju.edu.cn
+  email: jczhang114@gmail.com
   address:
     city: Nanjing
     region: China
@@ -26,6 +26,7 @@ cv:
         highlights:
           - School of Astronomy and Space Science
           - "Supervisor: Prof. Zhiyuan Li"
+          - "Thesis: X-ray Variability of Accreting Compact Objects in Nearby Galaxies"
 
       - institution: Nanjing University
         location: Nanjing, China
@@ -50,14 +51,26 @@ cv:
       - bullet: >-
           **Visiting Graduate Researcher**, University of Washington, Seattle, WA,
           USA — September–December 2024. Studied ionized gas and related stellar
-          populations in M31 and M33 under the supervision of Dr. Benjamin F.
+          populations in M31 and M33 under the supervision of Prof. Benjamin F.
           Williams.
 
     Publications:
       - title: "The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares"
-        publisher: Submitted
+        publisher: The Astrophysical Journal (accepted)
         releaseDate: 2026
-        summary: "**Jiachang Zhang**, et al."
+        url: https://arxiv.org/abs/2610.23339
+        summary: >-
+          **Jiachang Zhang**, Zhiyuan Li, Xiangdong Li, Tong Bao, Ziqian Hua,
+          and Shanshan Weng.
+
+      - title: "NOEMA Observations of the Center of M33: A Parsec-scale Molecular Filament and an Ordered Gas-Star-Formation Sequence"
+        publisher: The Astronomical Journal (accepted)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2610.35278
+        summary: >-
+          Zongnan Li, Zhiyuan Li, Gan Luo, Sheng-Yuan Liu, Sihan Jiao, Fanyi Meng,
+          Zhiyuan Ren, Daisuke Iono, **Jiachang Zhang**, Di Li, Chao-Wei Tsai,
+          and Jongsoo Kim.
 
       - title: Probing periodic and aperiodic variability of X-ray sources in M31, M81, and Centaurus A with Chandra
         publisher: MNRAS, 546, staf2237
@@ -142,7 +155,7 @@ cv:
       - title: Tiangong International Exchange Scholarship
         date: 2024
         awarder: Nanjing University
-        summary: Approximate value CNY 80,000 (≈ EUR 10,000).
+        summary: Approximate value USD 10,000.
       - title: Outstanding Poster Award
         date: 2024
         awarder: First Shen Kuo Symposium of the Chinese Astronomical Society
@@ -168,12 +181,13 @@ cv:
 
     Teaching Experience:
       - bullet: >-
-          **Teaching Assistant and Lecturer**, *An Introduction to X-ray Astronomy*,
-          Department of Astronomy, Nanjing University — February–July 2026.
+          **Teaching Assistant**, *An Introduction to X-ray Astronomy*,
+          Nanjing University — Spring 2026. Led X-ray data-processing training
+          covering data reduction, spectral analysis, and light-curve analysis.
 
     Research Mentoring:
       - bullet: >-
-          **2025–2026 — Yuyan Wang**, Undergraduate Innovation and Entrepreneurship
+          **2025–present — Yuyan Wang**, Undergraduate Innovation and Entrepreneurship
           Training Program. *“An X-ray Study of Massive Stars in the Solar
           Neighborhood”* — Mentored a project using archival Chandra and Gaia data
           to identify and characterize long-duration stellar X-ray flares and

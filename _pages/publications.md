@@ -2,18 +2,14 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Refereed publications on X-ray binaries, compact objects, and nearby galaxies.
+description: Published and accepted papers on X-ray binaries, compact objects, and nearby galaxies.
 nav: true
 nav_order: 3
 ---
 
-## Submitted manuscripts
-
-**The Dancing Bonfire: An Unusual Persistent X-ray Source in M81 Exhibiting Recurrent Luminous Flares.** **Jiachang Zhang** et al. Submitted.
-
-The manuscript above is listed separately from the refereed record. No DOI or arXiv identifier is currently available.
-
 ## Refereed publications
+
+Published and accepted papers are listed below; accepted papers link to their arXiv versions.
 
 <!-- _pages/publications.md -->
 

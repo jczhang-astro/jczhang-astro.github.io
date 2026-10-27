@@ -24,4 +24,4 @@ nav_order: 4
 - **A Chandra Search for Periodic X-ray Sources in the Bulge of M31.** Poster, 25 Years of Chandra Science Symposium, Boston, USA, December 2024.
 - **A Chandra Search for Periodic X-ray Sources in the Bulge of M31.** Poster, First Shen Kuo Symposium of the Chinese Astronomical Society, Wuhan, China, January 2024. **Outstanding Poster Award.**
 
-For speaking invitations, contact [zhangjiachang@smail.nju.edu.cn](mailto:zhangjiachang@smail.nju.edu.cn).
+For speaking invitations, contact [jczhang114@gmail.com](mailto:jczhang114@gmail.com).
