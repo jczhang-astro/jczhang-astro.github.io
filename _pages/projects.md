@@ -44,35 +44,39 @@ The analysis combines:
 
 <figure class="research-figure">
   <a href="{{ '/assets/research/zhang2026-fig1.webp' | relative_url }}">
-    <img src="{{ '/assets/research/zhang2026-fig1.webp' | relative_url }}" alt="Stacked Chandra HRC image of the M31 bulge with seven periodic X-ray sources marked" loading="lazy" decoding="async">
+    <img src="{{ '/assets/research/zhang2026-fig1.webp' | relative_url }}" width="1353" height="1323" alt="Stacked Chandra HRC image of the M31 bulge with seven periodic X-ray sources marked" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>The M31 foundation of the survey.</strong> A stacked Chandra HRC image of the central 15 × 15 arcmin<sup>2</sup> of M31, with the seven periodic sources identified by the systematic search marked in yellow.</figcaption>
 </figure>
 
-<div class="research-figure-grid">
-  <figure class="research-figure">
-    <a href="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}">
-      <img src="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}" alt="Histogram of X-ray flare durations in M31, M81, and Centaurus A" loading="lazy" decoding="async">
-    </a>
-  </figure>
-  <figure class="research-figure">
-    <a href="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}">
-      <img src="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}" alt="Histogram of X-ray flare peak luminosities in M31, M81, and Centaurus A" loading="lazy" decoding="async">
-    </a>
-  </figure>
-</div>
-<p class="research-figure-caption"><strong>Short-timescale flare populations.</strong> Distributions of flare duration and peak 0.5–8 keV luminosity in M31, M81, and Centaurus A. Bayesian Blocks provide a uniform definition of each flare interval across the three galaxies.</p>
-
 <figure class="research-figure">
   <a href="{{ '/assets/research/zhang2026-fig5.webp' | relative_url }}">
-    <img src="{{ '/assets/research/zhang2026-fig5.webp' | relative_url }}" alt="Comparison of extragalactic X-ray flare rates with Type I burst rates from MINBAR" loading="lazy" decoding="async">
+    <img src="{{ '/assets/research/zhang2026-fig5.webp' | relative_url }}" width="1440" height="1080" alt="Comparison of extragalactic X-ray flare rates with Type I burst rates from MINBAR" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>Flare recurrence.</strong> The rate distribution of recurrent flaring sources in this survey (orange dashed) compared with thermonuclear Type I burst rates from MINBAR (blue). Only sources with at least two events and a constrained recurrence rate are included.</figcaption>
 </figure>
 
+<figure class="research-figure-pair">
+<div class="research-figure-grid">
+  <figure class="research-figure">
+    <a href="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}">
+      <img src="{{ '/assets/research/zhang2026-fig4-left.webp' | relative_url }}" width="1440" height="1080" alt="Histogram of X-ray flare durations in M31, M81, and Centaurus A" loading="lazy" decoding="async">
+    </a>
+  </figure>
+  <figure class="research-figure">
+    <a href="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}">
+      <img src="{{ '/assets/research/zhang2026-fig4-right.webp' | relative_url }}" width="1440" height="1080" alt="Histogram of X-ray flare peak luminosities in M31, M81, and Centaurus A" loading="lazy" decoding="async">
+    </a>
+  </figure>
+</div>
+<figcaption><strong>Short-timescale flare populations.</strong> Distributions of flare duration and peak 0.5–8 keV luminosity in M31, M81, and Centaurus A. Bayesian Blocks provide a uniform definition of each flare interval across the three galaxies.</figcaption>
+</figure>
+
+
+
 <figure class="research-figure research-figure--compact">
   <a href="{{ '/assets/research/zhang2026-fig6.webp' | relative_url }}">
-    <img src="{{ '/assets/research/zhang2026-fig6.webp' | relative_url }}" alt="Long-term X-ray variability amplitude versus mean luminosity in M31, M81, and Centaurus A" loading="lazy" decoding="async">
+    <img src="{{ '/assets/research/zhang2026-fig6.webp' | relative_url }}" width="1080" height="1170" alt="Long-term X-ray variability amplitude versus mean luminosity in M31, M81, and Centaurus A" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>Population-level long-term variability.</strong> Variability amplitude versus mean X-ray luminosity for bulge sources in M31, M81, and Centaurus A. The galaxy-dependent linear scalings are consistent with an rms–flux relation and reveal differences in population variability.</figcaption>
 </figure>
@@ -96,28 +100,28 @@ M31 UCXB-1 demonstrates how systematic timing surveys can reveal rare compact bi
 
 <figure class="research-figure">
   <a href="{{ '/assets/research/zhang2024-fig6.webp' | relative_url }}">
-    <img src="{{ '/assets/research/zhang2024-fig6.webp' | relative_url }}" alt="X-ray luminosity versus orbital period for periodic low-mass X-ray binaries in M31 and the Milky Way" loading="lazy" decoding="async">
+    <img src="{{ '/assets/research/zhang2024-fig6.webp' | relative_url }}" width="1758" height="1309" alt="X-ray luminosity versus orbital period for periodic low-mass X-ray binaries in M31 and the Milky Way" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>The periodic-source population in context.</strong> X-ray luminosity versus orbital period for the seven M31 bulge LMXBs (red circles), with crosses marking the four systems discovered in our Chandra search. Galactic ultra-compact, black-hole, and neutron-star LMXBs are shown for comparison; the dashed line marks the conventional 80-minute upper limit for ultra-compact systems.</figcaption>
 </figure>
 
 <figure class="research-figure">
   <a href="{{ '/assets/research/ma2026-fig1.webp' | relative_url }}">
-    <img src="{{ '/assets/research/ma2026-fig1.webp' | relative_url }}" alt="Phase-folded XMM-Newton light curve of M31 UCXB-1 and a schematic of its binary geometry" loading="lazy" decoding="async">
+    <img src="{{ '/assets/research/ma2026-fig1.webp' | relative_url }}" width="2051" height="1312" alt="Phase-folded XMM-Newton light curve of M31 UCXB-1 and a schematic of its binary geometry" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>A 465.32-second orbital clock.</strong> The phase-folded XMM-Newton light curve shows a stable eclipse-like modulation. The schematic illustrates the interpretation in which the white-dwarf donor periodically obscures the accretion disk.</figcaption>
 </figure>
 
 <figure class="research-figure">
   <a href="{{ '/assets/research/ma2026-fig2.webp' | relative_url }}">
-    <img src="{{ '/assets/research/ma2026-fig2.webp' | relative_url }}" alt="M31 UCXB-1 on the X-ray luminosity versus orbital period plane with model tracks for neutron-star and black-hole systems" loading="lazy" decoding="async">
+    <img src="{{ '/assets/research/ma2026-fig2.webp' | relative_url }}" width="2880" height="2160" alt="M31 UCXB-1 on the X-ray luminosity versus orbital period plane with model tracks for neutron-star and black-hole systems" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>Testing the nature of the accretor.</strong> M31 UCXB-1 (red) on the 2–10 keV luminosity–orbital-period plane, compared with known ultra-compact binaries and theoretical neutron-star–white-dwarf and black-hole–white-dwarf bands. Its location is compatible with both classes, while the full timing and spectral evidence favors a black-hole accretor.</figcaption>
 </figure>
 
 <figure class="research-figure research-figure--graphical">
   <a href="{{ '/assets/research/ma2026-graphical-abstract.webp' | relative_url }}">
-    <img src="{{ '/assets/research/ma2026-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract showing a white dwarf transferring matter to a compact object in M31 UCXB-1" loading="lazy" decoding="async">
+    <img src="{{ '/assets/research/ma2026-graphical-abstract.webp' | relative_url }}" width="488" height="375" alt="Graphical abstract showing a white dwarf transferring matter to a compact object in M31 UCXB-1" loading="lazy" decoding="async">
   </a>
   <figcaption><strong>M31 UCXB-1 at a glance.</strong> A white dwarf fills its Roche lobe and transfers matter through an accretion disk onto a compact object, forming an exceptionally short-period extragalactic binary.</figcaption>
 </figure>

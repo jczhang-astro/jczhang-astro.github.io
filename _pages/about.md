@@ -45,10 +45,8 @@ I work primarily with archival observations from **Chandra**, **XMM–Newton**, 
 
 I have conducted a systematic search for periodic and aperiodic variability among X-ray sources in **M31, M81, and Centaurus A**. This work has produced an initial extragalactic time-domain sample spanning coherent periods, short-term flares and dips, aperiodic variability, and long-term behavior. I am extending this foundation toward a comparative population analysis that connects variability and accretion state with local stellar environments.
 
-Two unusual systems discovered within the larger sample illustrate how nearby galaxies can expand the known parameter space of X-ray binaries: **M31 UCXB-1**, the first extragalactic ultra-compact X-ray binary and a candidate black hole–white dwarf system, and **M81F4**, a persistently luminous source exhibiting recurrent minute-scale, super-Eddington flares. Our M81F4 paper, [“The Dancing Bonfire”](https://arxiv.org/abs/2610.23339), has been **accepted for publication in The Astrophysical Journal (ApJ)**.
+Two unusual systems discovered within the larger sample illustrate how nearby galaxies can expand the known parameter space of X-ray binaries: **M31 UCXB-1**, the first extragalactic ultra-compact X-ray binary and a candidate black hole–white dwarf system, and **M81F4**, a persistently luminous source exhibiting recurrent minute-scale, super-Eddington flares.
 
 Complementary projects examine X-ray emission from star clusters in M31 and M33, the relationship between ionized gas and resolved stellar populations, and early-science applications for the **China Space Station Telescope (CSST)**. Together, these studies provide the environmental context needed to interpret the time-domain properties of nearby-galaxy X-ray-source populations.
-
-I also co-authored a [NOEMA study of molecular gas and recent star formation in the center of M33](https://arxiv.org/abs/2610.35278), **accepted for publication in The Astronomical Journal (AJ)**.
 
 Explore my [research]({% link _pages/projects.md %}), [publications]({% link _pages/publications.md %}), [talks]({% link _pages/talks.md %}), and [academic CV]({% link _pages/cv.md %}). I expect to complete my PhD in **June 2027** and welcome conversations about postdoctoral opportunities in high-energy and time-domain astrophysics.
